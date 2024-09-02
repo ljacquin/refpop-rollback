@@ -119,6 +119,7 @@ Download the ```refpop``` repository in the current user's directory on a comput
 * Within the ```refpop``` folder, execute the following commands to make scripts and programs executable :
 
   *  ```chmod u+rwx execute_refpop_tasks_and_analyses.sh```
+  *  ```chmod u+rwx src/refpop_genomic_prediction_and_analysis/*.sh```
   <p> </p>
 
 * Replace the ```data/``` folder with the directory found at https://data :  
