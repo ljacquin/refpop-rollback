@@ -110,7 +110,6 @@ trait_num <- as.integer(args[1])
 trait_ <- traits_[trait_num]
 print(paste0("trait: ", trait_))
 
-
 # define shift seed value by
 mult_seed_by_ <- 100
 
