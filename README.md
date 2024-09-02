@@ -1,17 +1,17 @@
 [<img src="img/refpop.png"/>]()
 
-# refpop
+# refpop-rollback
 
 ##### Licence, status and metrics
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)]()
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-![GitHub repo size](https://img.shields.io/github/repo-size/ljacquin/refpop)
-![GitHub language count](https://img.shields.io/github/languages/count/ljacquin/refpop)
-![GitHub top language](https://img.shields.io/github/languages/top/ljacquin/refpop)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ljacquin/refpop)  
-![GitHub all releases](https://img.shields.io/github/downloads/ljacquin/refpop/total)
-![GitHub stars](https://img.shields.io/github/stars/ljacquin/refpop)  
+![GitHub repo size](https://img.shields.io/github/repo-size/ljacquin/refpop-rollback)
+![GitHub language count](https://img.shields.io/github/languages/count/ljacquin/refpop-rollback)
+![GitHub top language](https://img.shields.io/github/languages/top/ljacquin/refpop-rollback)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ljacquin/refpop-rollback)  
+![GitHub all releases](https://img.shields.io/github/downloads/ljacquin/refpop-rollback/total)
+![GitHub stars](https://img.shields.io/github/stars/ljacquin/refpop-rollback)  
 
 ##### Languages and technologies
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -104,9 +104,9 @@ The ```refpop/``` repository contains three main folders that are central to the
 
 Download the ```refpop``` repository in the current user's directory on a computing cluster or personal computer using one of the following commands :
 
-  *  ```git clone git@github.com:ljacquin/refpop.git``` <p> </p>
+  *  ```git clone git@github.com:ljacquin/refpop-rollback.git``` <p> </p>
     or
-  * ```git clone https://github.com/ljacquin/refpop.git``` 
+  * ```git clone https://github.com/ljacquin/refpop-rollback.git``` 
   <p> </p>
   
   ⚠️ Make sure``` git``` is installed beforehand; if not, install it with ```sudo apt install git```.
